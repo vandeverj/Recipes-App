@@ -1,6 +1,12 @@
 ## Welcome to GitHub Pages
 
+[Registation](Registration.html)
+[Login Page](Login-Page.html)
 [Search Recipes](Search-Recipes.html)
+[Create Shopping List](Create-Shopping-List.html)
+[Delete Recipe](Delete-Recipe.html)
+[Rate Recipe](Rate-Recipe.html)
+
 
 You can use the [editor on GitHub](https://github.com/vandeverj/Recipes-App/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
