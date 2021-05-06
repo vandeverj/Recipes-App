@@ -1,10 +1,15 @@
 ## Welcome to GitHub Pages
 
 [Registation](Registration.html)
+
 [Login Page](Login-Page.html)
+
 [Search Recipes](Search-Recipes.html)
+
 [Create Shopping List](Create-Shopping-List.html)
+
 [Delete Recipe](Delete-Recipe.html)
+
 [Rate Recipe](Rate-Recipe.html)
 
 
